@@ -1,0 +1,4 @@
+(executable
+ (public_name turing_machine)
+ (name main)
+ (libraries turing_machine))

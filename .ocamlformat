@@ -1,0 +1,10 @@
+profile = ocamlformat
+break-cases = fit
+margin = 77
+wrap-comments = true
+line-endings = lf
+let-binding-spacing = double-semicolon
+
+# To make ocaml-ci happy
+version = ignore
+version-check = false
